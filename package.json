@@ -1,0 +1,15 @@
+{
+	"name": "@myleslinder/prettier-config",
+	"version": "0.0.1",
+	"description": "prettier config",
+	"main": "index.js",
+	"scripts": {
+		"release": "pnpm -r publish --access public"
+	},
+	"keywords": [],
+	"author": "Myles Linder",
+	"license": "ISC",
+	"devDependencies": {
+		"prettier": "^2.7.1"
+	}
+}
